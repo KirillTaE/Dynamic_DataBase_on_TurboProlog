@@ -1,5 +1,7 @@
 # Динамическая база данных на Turbo Prolog
 
+Код подробнее описан на Habr: NaN
+
 Немного фоточек
 
 ![image](https://user-images.githubusercontent.com/82940632/216084326-8831c99d-e261-4f45-8dbe-4f85ac112873.png)
